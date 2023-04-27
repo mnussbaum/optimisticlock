@@ -1,4 +1,4 @@
-module gorm.io/plugin/optimisticlock
+module github.com/mnussbaum/optimisticlock
 
 go 1.17
 
